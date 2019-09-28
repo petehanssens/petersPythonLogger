@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="dylan",
+    name="peters-python-logger",
     version="0.1.0",
-    py_modules=["dylan"],
+    py_modules=["peters-python-logger"],
     packages=find_packages(),
     include_package_data=True,
     entry_points="""
         [console_scripts]
-        dylan=dylan.dylan:main
+        peters-python-logger=peters-python-logger.peters-python-logger:main
     """,
 )

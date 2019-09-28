@@ -1,2 +1,3 @@
-# dylan
-A self-indulgent self-advertising CLI tool because my name was free on PyPI
+# peters-python-logger
+
+A library that will eventually provide an opinionated way of json logging in python.
